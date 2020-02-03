@@ -1,3 +1,7 @@
+#cpfrontend
+Fiz esse repositório apenas para hospedar o frontend feito no repositório github.com/joaomarcostg/clubpetro no heroku.
+Para acessar: http://clubpetroestagio.herokuapp.com
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
